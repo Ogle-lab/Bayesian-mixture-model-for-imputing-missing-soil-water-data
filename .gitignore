@@ -1,0 +1,10 @@
+
+# Suppress files related to R project
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Suppress files related specifically to Macs
+.DS_Store
