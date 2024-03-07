@@ -18,7 +18,7 @@ The main folder contains the following primary data files and code files. Additi
 12.	Convergence checking: 12_Script_convergence_checking FINAL.R
 13.	Code for preparing real data for SWC imputation code: 13_Script_to_create_observed_data_FINAL.R
 14.	Code for imputing SWC: 14_Script_impute_missing_SWC_data_FINAL.R
-15.	Readme file for impuated and observed data: 15_README_imputed_SWC_data.txt
+15.	Readme file for imputed and observed data: 15_README_imputed_SWC_data.txt
 16.	Example imputed and observed SWC data, SES: 16_imputed_SWC_ses.csv
 17.	Example imputed and observed SWC data, SEG: 17_imputed_SWC_seg.csv
 18.	Example imputed and observed SWC data, WJS: 18_imputed_SWC_wjs.csv
